@@ -1,37 +1,118 @@
-- 👋 Hi, I’m @oussyel
-Welcome tnx💖 for your visit
-You are in the right place
-If you are interested in shopping 🛒🛍️
+🌍 Logistics & Systems Builder | ERP Explorer | Knowledge Architect
 
-Welcome to our store:
-https://oussyel.creator-spring.com/
-❤️🌹❤️
-Oussyel are groups of designers who have a lot of experience. We decided to open a store.
-If you want to see our products you can use this link: https://oussyel.creator-spring.com/
-🌹🌹🌹🌹🌹😍
-We sell: 🥼👔👗🧦🧥🧤🧣👚👜👛👝🎒🎩👒🧢
-shirts
-hoodies
-jackets
-Supplements
-bags
-pillows
-mural
-attachments
-face masks
-funny packages
-Glasses
-And more.........
+I use GitHub to explore how logistics, data, and systems thinking can improve organizations, communities, and real-world operations.
 
-Now we challenge ourselves by:
-1 day = 2 designs
-To make you find what you want we hope to satisfy you
-🌷💐🌹💞
-Our Instagram:
-@oussyel01
-https://www.instagram.com/reel/CZ3Bt4Wo37I/?utm_medium=copy_link
+This space reflects my journey at the intersection of:
+Supply Chain · ERP · Data · Knowledge Systems · Social Impact
 
-<!---
-gmkla/gmkla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧭 Core Domains
+🚚 Logistics & Supply Chain
+
+Supply chain fundamentals & operations thinking
+
+Coordination systems & field logistics
+
+Process optimization & real-world workflows
+
+🏢 ERP Systems
+
+Odoo (functional exploration & use cases)
+
+SAP (conceptual learning & ecosystem understanding)
+
+ERP for SMEs & NGOs
+
+Workflow digitalization
+
+📊 Data & Information Flow
+
+Data organization & interpretation
+
+Information flow mapping
+
+Operational dashboards (conceptual)
+
+Data for decision-making
+
+🧠 Systems & Knowledge
+🧩 Systems Builder Mindset
+
+Systems thinking in organizations
+
+Workflow design & simplification
+
+Process documentation
+
+Building structured frameworks
+
+📚 Knowledge Management
+
+Knowledge structuring & documentation
+
+Learning-in-public repositories
+
+Framework creation
+
+Digital knowledge libraries
+
+🌐 Digital & Tools
+
+WordPress for digital presence & knowledge hubs
+
+Digital organization systems
+
+Productivity workflows
+
+Information architecture
+
+🤝 Social Impact & NGOs
+
+NGO development & structuring
+
+Project monitoring & evaluation
+
+Community-driven innovation
+
+Social systems design
+
+📈 Project Management
+
+Planning & coordination frameworks
+
+Field project execution
+
+Evaluation & impact thinking
+
+Cross-functional collaboration
+
+🎯 What I'm Building Here
+
+Public learning repositories
+
+Logistics & ERP notes
+
+NGO frameworks & toolkits
+
+Knowledge systems
+
+Practical templates & workflows
+
+🤝 Open to Collaborations
+
+Logistics & operations projects
+
+ERP implementation communities
+
+NGO digital transformation
+
+Knowledge management initiatives
+
+Systems-driven social innovation
+
+📫 Contact
+
+LinkedIn: (add link)
+
+Email: (add email)
+
+Building systems that move people, knowledge, and impact.
